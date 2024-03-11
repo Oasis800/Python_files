@@ -9,7 +9,7 @@ age = 20
 department = "Accounting amd finance"
 
 #print the name of the person
-print(" My name is .", name)
+print(" My name is ", name, ".")
 
 #print the age of the person
 print("I am ", age , "years old.")
